@@ -18,6 +18,7 @@ end
 
 def literal_aoh
   aoh = [
+    { name:  "Don Gately", occupation: "Live-in Staff" },
     
     ]
   
